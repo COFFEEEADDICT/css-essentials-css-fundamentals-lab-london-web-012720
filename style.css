@@ -12,6 +12,7 @@ align-content: center;
 }
 
 #details{
+  display: flex;
 
   display: block;
 }
