@@ -8,7 +8,7 @@ body {
 header + h1{
 align-content: center;
 display: flex;
-text-align:
+text-align:center;
 }
 
 #details{
