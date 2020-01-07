@@ -8,12 +8,14 @@ body {
 header{
 margin-left: auto;
     margin-right: auto;
+      width: 8em;
 }
 
 
 h1{
   margin-left: auto;
       margin-right: auto;
+        width: 8em;
 }
 
 
