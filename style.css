@@ -7,7 +7,7 @@ body {
 
 header + h1{
 align-content: center;
-display: inline-flex;
+display: flex;
 
 
 }
