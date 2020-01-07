@@ -8,3 +8,8 @@ body {
 header{
 
 }
+
+#details{
+
+  display: block;
+}
