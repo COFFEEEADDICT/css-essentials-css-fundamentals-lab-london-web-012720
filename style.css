@@ -7,7 +7,7 @@ body {
 
 header{
 align-content: center;
-display: flex;
+display: inline-flex;;
 
 
 }
