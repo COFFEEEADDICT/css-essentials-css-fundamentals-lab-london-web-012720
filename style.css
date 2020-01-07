@@ -7,12 +7,12 @@ body {
 
 header{
 align-content: center;
+display: flex;
 
 
 }
 
 #details{
-  display: flex;
 
   display: block;
 }
